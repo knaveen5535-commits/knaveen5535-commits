@@ -20,12 +20,12 @@
 
 <img align="right" alt="Coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-Enthusiastic developer skilled in **software development** and **cloud technologies**, including Docker, Jenkins, and AWS. Proficient in **Java, React, Next.js,** and **database management**. Passionate about designing, developing, and deploying high-availability applications while implementing modern **DevOps practices** for efficiency and reliability.
+Enthusiastic developer skilled in **software development**. Passionate about designing, developing, and deploying high-availability applications while implementing modern efficiency and reliability.
 
 - 🎓 B.E. Computer Science & Engineering @ **PPG Institute of Technology** (CGPA: 7.5)
-- 🌱 Learning **Cloud Architecture, CI/CD Pipelines & Microservices**
-- 💬 Ask me about **React, Next.js, Java, DevOps, Docker**
-- 📫 Reach me at **abi.cbe.dev@gmail.com**
+- 🌱 Learning **UI/Ux,Backend**
+- 💬 Ask me about **React, Next.js, Java**
+- 📫 Reach me at **knaveen5535@gmail.com**
 - 📍 Based in **Coimbatore, Tamil Nadu**
 - ⚡ Fun fact: I automate my GitHub commits with a pipeline bot!
 
@@ -56,23 +56,6 @@ Enthusiastic developer skilled in **software development** and **cloud technolog
   <img src="https://skillicons.dev/icons?i=nodejs,express,spring,prisma&theme=dark" alt="Backend"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Inngest-6C63FF?style=for-the-badge&logoColor=white" alt="Inngest"/>
-</p>
-
-### 🗄️ Databases
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase&theme=dark" alt="Databases"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Neon_DB-3ECF8E?style=for-the-badge&logo=neon&logoColor=white" alt="Neon DB"/>
-</p>
-
-### ☁️ DevOps & Cloud
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,jenkins,aws,ansible,linux,git,github&theme=dark" alt="DevOps"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
 </p>
 
 ### 🧰 Tools & Platforms
@@ -120,20 +103,6 @@ Enthusiastic developer skilled in **software development** and **cloud technolog
 
 ---
 
-## 🏆 Achievements & Certifications
-
-<details>
-<summary><b>🥇 Achievements (Click to expand)</b></summary>
-<br>
-
-| 🏅  | Achievement                                          | Year |
-| --- | ---------------------------------------------------- | ---- |
-| 🥈  | **2nd Place** – NAAN Mudhalvan MERN Stack Hackathon  | 2025 |
-| 🥇  | **1st Place** – Startup Pitch, Hindusthan IT College | 2025 |
-| 🥇  | **1st Place** – Business Pitch, KGISL College        | 2025 |
-| 🥉  | **3rd Place** – Paper Presentation, Johnson College  | 2025 |
-| 🥇  | **1st Place** – Ideathon, Nehru College, Kerala      | 2024 |
-| 🥈  | **2nd Place** – Handloom Fashion Show                | 2024 |
 
 </details>
 
